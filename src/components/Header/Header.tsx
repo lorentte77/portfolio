@@ -35,7 +35,7 @@ export function Header() {
 
         <nav className={isActive ? "active" : ""}>
           <NavHashLink smooth to="#home" onClick={closeMenu}>
-            Home
+            Home Page
           </NavHashLink>
           <NavHashLink smooth to="#aboutme" onClick={closeMenu}>
             About me
