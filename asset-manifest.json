@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.43c86f1c.css",
-    "main.js": "/portfolio/static/js/main.1bd773dc.js",
+    "main.js": "/portfolio/static/js/main.6bd9081d.js",
     "static/media/ruslan_abdurashidov.pdf": "/portfolio/static/media/ruslan_abdurashidov.b34366b7182efa8ad9b8.pdf",
     "static/media/portfolio-image.jpg": "/portfolio/static/media/portfolio-image.49d2b80e8825a2ba9d84.jpg",
     "static/media/telegram.png": "/portfolio/static/media/telegram.1b722a57c2ce8ff2980a.png",
@@ -23,10 +23,10 @@
     "static/media/github-icon.svg": "/portfolio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/portfolio/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.43c86f1c.css.map": "/portfolio/static/css/main.43c86f1c.css.map",
-    "main.1bd773dc.js.map": "/portfolio/static/js/main.1bd773dc.js.map"
+    "main.6bd9081d.js.map": "/portfolio/static/js/main.6bd9081d.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.1bd773dc.js"
+    "static/js/main.6bd9081d.js"
   ]
 }
