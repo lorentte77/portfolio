@@ -31,11 +31,7 @@ export function Contact() {
           </div>
         </a>
 
-        <a
-          className="link-tag"
-          target="_blank"
-          href="https://t.me/sulaymanov_a"
-        >
+        <a className="link-tag" target="_blank" href="https://t.me/lorentte">
           <div>
             <img src={telegramIcon} alt="Email" />
             <span>Ruslan Abdurashidov</span>
