@@ -43,16 +43,15 @@ export const Container = styled.section`
   .about-image {
     text-align: center;
     overflow: hidden;
-    width: 427px;
-    height: 427px;
+    transition: 0.5s all ease;
     img {
-      margin-top: 2rem;
-      transition: 0.5s all ease;
-      width: 100%;
-      &:hover {
-        transition: 0.5s all ease;
-        transform: scale(1.3);
+      transform-origin: 50% 10%;
+      transition: transform 1s, filter 0.5s ease-out;
       }
+    &:hover img {
+      overflow:hidden;
+      transform: scale(1.1);
+    }
     }
   }
 
