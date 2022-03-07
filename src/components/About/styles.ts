@@ -42,12 +42,16 @@ export const Container = styled.section`
 
   .about-image {
     text-align: center;
+    overflow: hidden;
+    width: 427px;
+    height: 427px;
     img {
       margin-top: 2rem;
-      width: 100%;
       transition: 0.5s all ease;
+      width: 100%;
       &:hover {
-        transform: scale(1.1);
+        transition: 0.5s all ease;
+        transform: scale(1.3);
       }
     }
   }
